@@ -13,3 +13,8 @@ In this journal, you will find content such as:
     Strategy notes
     Example problems
 
+Resources I use:
+
+- [UKMT Past Papers](https://www.ukmt.org.uk/past-papers)
+- [Dr Frost Maths](https://drfrostmaths.com)
+
