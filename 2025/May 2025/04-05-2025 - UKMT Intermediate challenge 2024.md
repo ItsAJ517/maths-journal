@@ -30,3 +30,5 @@ Overall, my main weaknesses were in the following topics:
 
     Geometry diagrams
     Forming equations
+
+Over the next few weeks, I will focus on practising questions for the above topics.
