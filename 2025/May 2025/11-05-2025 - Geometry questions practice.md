@@ -17,6 +17,15 @@ Key questions:
   - However, the mark scheme had different method, where you identify each triangle can be split up into 4 equilateral triangles of side one.
   - This method is definitely more efficient.
 
+- Q11
+  - The method to solve this question was to draw a separate triangle, which I didn't think of doing.
+  - I got this question wrong as I restricted my thinking to the diagram.
+
+
+Next time, I will:
+
+    Look for the most efficient ways to solve problems
+    Make my own diagrams based on the ones provided
 
 
 
